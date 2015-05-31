@@ -1,2 +1,7 @@
-markdown: rdiscount
-pygments: true
+markdown: kramdown
+
+title: Sagarchalise.GitHub.io
+description: Sagar Chalise's Github Page
+google_analytics: 
+show_downloads: false
+theme: jekyll-theme-merlot

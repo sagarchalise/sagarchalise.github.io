@@ -1,0 +1,3 @@
+language: ruby
+install: "gem install jekyll jekyll-theme-merlot"
+script: "jekyll build"

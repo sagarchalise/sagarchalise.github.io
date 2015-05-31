@@ -1,1 +1,0 @@
-{"name":"Sagarchalise.GitHub.io","tagline":"Sagar Chalise's Github Page","body":"### My Repository\r\n\r\n{% for repository in site.github.public_repositories %}\r\n  * [{{ repository.name }}]({{ repository.html_url }})\r\n{% endfor %}","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
