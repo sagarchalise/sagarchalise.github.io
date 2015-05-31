@@ -31,9 +31,7 @@
         <section id="main_content">
           <h3>
 <a id="my-repository" class="anchor" href="#my-repository" aria-hidden="true"><span class="octicon octicon-link"></span></a>My Repository</h3>
-       {% for repository in site.github.public_repositories %}
-  * [{{ repository.name }}]({{ repository.html_url }})
-{% endfor %}
+        {{ site.github }}
         </section>
 
  
