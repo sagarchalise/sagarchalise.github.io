@@ -1,6 +1,6 @@
 ### My Repositories
 
-##### Hobby Projects and Fork Contributions:
+##### Hobby Projects and Contributions:
 {% for repository in site.github.public_repositories %}
  {% if repository.archived  or repository.name == 'sagarchalise.github.io' %}
 {% else %}
