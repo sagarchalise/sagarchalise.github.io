@@ -3,4 +3,4 @@ markdown: kramdown
 title: Sagarchalise.GitHub.io
 description: Sagar Chalise's Github Page
 show_downloads: false
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
