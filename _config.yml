@@ -3,4 +3,4 @@ markdown: kramdown
 title: Sagar Chalise
 description: An enthusiast who likes to learn and sometimes also breaks things in doing so.
 show_downloads: false
-theme: jekyll-theme-tactile
+theme: jekyll-theme-minimal
